@@ -5,11 +5,11 @@ Dataset of 464 news headlines with sentiment annotated by a domain expert using 
 To be included
 
 ### Hosted on Zenodo
-To be included
+https://zenodo.org/record/6323964#.Yh_UdXXP3RZ
 
 ### License
-To be included
+(Creative Commons Attribution 4.0 International)[https://creativecommons.org/licenses/by/4.0/legalcode]
 
 ### Citation
-To be included
+Mello, C. & Cheema, G. (2022). Dataset: Sentiment Analysis annotation of News headlines covering the Olympic legacy of Rio 2016 and London 2012 published by the Brazilian and British online media [Data set]. Zenodo. https://doi.org/10.5281/zenodo.6323964
 
