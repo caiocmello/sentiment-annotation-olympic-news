@@ -8,7 +8,7 @@ To be included
 https://zenodo.org/record/6323964#.Yh_UdXXP3RZ
 
 ### License
-(Creative Commons Attribution 4.0 International)[https://creativecommons.org/licenses/by/4.0/legalcode]
+[Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)
 
 ### Citation
 Mello, C. & Cheema, G. (2022). Dataset: Sentiment Analysis annotation of News headlines covering the Olympic legacy of Rio 2016 and London 2012 published by the Brazilian and British online media [Data set]. Zenodo. https://doi.org/10.5281/zenodo.6323964
