@@ -55,7 +55,7 @@ https://zenodo.org/record/6323964#.Yh_UdXXP3RZ
   
  </details>
 
-### Dataset 2: Sentiment Analysis annotation of News headlines covering the Olympic legacy of Rio 2016 and London 2012 published by the Brazilian and British online media
+### Dataset 2: Sentiment Analysis outputs based on the combination of three classifiers for news headlines and body text
 
 Sentiment Analysis outputs based on the combination of three classifiers for news headlines and body text covering the Olympic legacy of Rio 2016 and London 2012. Data was searched via Google search engine. It is composed of sentiment labels assigned to 1271 news articles in total.
 
