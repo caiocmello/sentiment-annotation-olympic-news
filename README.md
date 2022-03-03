@@ -25,6 +25,11 @@ Dataset of 464 news headlines with sentiment annotated by a domain expert using 
 - London 2012 Olympic legacy
 - Rio 2016 Olympic legacy
 
+#### Language of news headlines:
+
+- English
+- Portuguese (Brazil)
+
 #### The documents are composed of the following columns:
 
 - Rank: the position of the article on Google search ranking
