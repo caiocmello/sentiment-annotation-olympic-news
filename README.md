@@ -3,7 +3,10 @@
 Add here journal paper
 
 ### Statistics about the dataset
-To be included
+
+Dataset | Event | Language | Media Outlet | Number of Articles
+
+
 ![Screenshot](sentimentanalysispaperdataviz.jpg)
 
 ### License
