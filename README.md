@@ -9,6 +9,9 @@ To be included
 [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)
 
 
+<details>
+  <summary>Click to expand!</summary>
+  
 ### Dataset 1: Sentiment Analysis annotation of News headlines covering the Olympic legacy of Rio 2016 and London 2012 published by the Brazilian and British online media
 
 Dataset of 464 news headlines with sentiment annotated by a domain expert using the labels positive, negative and neutral. Data contains URLs for news articles published between 2004-2020 by the British and Brazilian media in English and Brazilian Portuguese covering the Olympic legacies of London 2012 and Rio 2016. Articles were collected from the news outlets’ websites using Google search engine.
@@ -49,6 +52,8 @@ Dataset of 464 news headlines with sentiment annotated by a domain expert using 
 
 ### Hosted on Zenodo
 https://zenodo.org/record/6323964#.Yh_UdXXP3RZ
+  
+ </details>
 
 ### Dataset 2: Sentiment Analysis annotation of News headlines covering the Olympic legacy of Rio 2016 and London 2012 published by the Brazilian and British online media
 
