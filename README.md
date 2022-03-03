@@ -5,9 +5,6 @@ Add here journal paper
 ### Statistics about the dataset
 To be included
 
-### Hosted on Zenodo
-https://zenodo.org/record/6323964#.Yh_UdXXP3RZ
-
 ### License
 [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)
 
@@ -44,6 +41,9 @@ Dataset of 464 news headlines with sentiment annotated by a domain expert using 
 
 #### Citation
 *Mello, C. & Cheema, G. (2022). Dataset: Sentiment Analysis annotation of News headlines covering the Olympic legacy of Rio 2016 and London 2012 published by the Brazilian and British online media [Data set]. Zenodo. https://doi.org/10.5281/zenodo.6323964*
+
+### Hosted on Zenodo
+https://zenodo.org/record/6323964#.Yh_UdXXP3RZ
 
 ### Dataset 2: Sentiment Analysis annotation of News headlines covering the Olympic legacy of Rio 2016 and London 2012 published by the Brazilian and British online media
 
@@ -99,4 +99,7 @@ PS: Documents do not include articles' body text.
 
 #### Citation
 *Mello, C. & Cheema, G. (2022). Sentiment Analysis outputs based on the combination of three classifiers for news headlines and body text [Data set]. Zenodo. https://doi.org/10.5281/zenodo.6326348*
+
+### Hosted on Zenodo
+https://zenodo.org/record/6326348#.YiEuq9vLfRZ
 
