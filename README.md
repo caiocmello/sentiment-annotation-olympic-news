@@ -1,4 +1,4 @@
-## Datasets Sentiment Analysis of News Articles covering the Olympic legacy of Rio 2016 and London 2012
+## Dataset: Sentiment Analysis of News Articles covering the Olympic legacy of Rio 2016 and London 2012
 
 Add here journal paper
 
